@@ -1,2 +1,5 @@
 # Hello-word
-Just another repository
+
+Hi Humans ha ha ha!
+
+start lerning coding！
