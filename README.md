@@ -2,4 +2,4 @@
 
 Hi Humans ha ha ha!
 
-start lerning coding！
+start learning coding！
